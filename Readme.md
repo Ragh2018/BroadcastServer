@@ -3,6 +3,7 @@
 This is the cod written in java by which we can connect the two pepole who are connected with the same server(router).
 #changes before run
 please enter your ip address for chating
+you can change your ip address on chatclient.java and after that compile it and then run
 #installation
 
 1.start your cmd. 
